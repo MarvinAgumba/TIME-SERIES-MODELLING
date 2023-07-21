@@ -27,7 +27,9 @@ Feature Importance: Technique that calculates a score for all the features for o
 
 Time Series Trend Analysis & visualizing the impact of differencing on the data set (to remove trends & seasonality as we aim to make series stationary)
 
-![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/6ab038e6-2e4f-4d88-a970-764338681a74)  ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/313dbaf5-abe1-4d3c-b839-bc07120026bd) 
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/241b940b-4294-42b6-b682-19887027c0bc)
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/6ab038e6-2e4f-4d88-a970-764338681a74) 
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/313dbaf5-abe1-4d3c-b839-bc07120026bd) 
 
 Time Series Decomposition: Decompose our time series into 3 distinct components: Trend, Seasonality & Residual(Noise); making it easier to quickly identify changing mean or variation in our time series.
 
