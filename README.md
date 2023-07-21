@@ -47,3 +47,5 @@ To avoid overfitting, our Best performing algorithm is the Random Forest Regress
 | AR    | 0.013 | 0.087|
 | ARIMA | 0.004 | 0.040|
 | SARIMA| 0.0043|      |
+
+An MSE that is close to 0 indicates that the estimator is predicting observations of the parameter with perfect accuracy, which would be an ideal scenario but it is not typically possible.
