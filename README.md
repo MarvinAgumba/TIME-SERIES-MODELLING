@@ -23,3 +23,11 @@ The following steps were taken into consideration:
 ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/624896ce-9ce5-4cc8-8bbe-6c294ffa5391)  ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/798a5e00-7bd0-4552-9588-811f22d39587)
 
 ## <p>MODEL RESULTS<p>
+
+To avoid overfitting, our Best performing algorithm is the Random Forest Regression
+
+| Model | MSE   | MAE  |
+|:------|:----- |:-----|
+| AR    | 0.013 | 0.087|
+| ARIMA | 0.004 | 0.040|
+| SARIMA| 0.0043|      |
