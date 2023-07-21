@@ -34,6 +34,7 @@ If the autocorrelation plot shows a significant correlation at lag 1 and the par
 ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/7427d4cd-71be-4206-8347-72a84843cd07) 
 ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/8286a5d8-3696-40b9-982f-036e8dcf0aa1)
 
+Modelling, Prediction & Evaluation (Models: AR, ARIMA & SARIMA)
 ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/e9ca719f-e67f-40d8-9b60-62401f6277af)  
 ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/624896ce-9ce5-4cc8-8bbe-6c294ffa5391)  ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/798a5e00-7bd0-4552-9588-811f22d39587)
 
