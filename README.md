@@ -29,18 +29,17 @@ Time Series Trend Analysis & visualizing the impact of differencing on the data 
 
 ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/5254e6fd-192d-485c-b0e8-7d926d532ba9)
 ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/c725bbfc-ed3c-4fa5-9e38-6559d4ce212e)
-![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/313dbaf5-abe1-4d3c-b839-bc07120026bd) 
 
 Time Series Decomposition: Decompose our time series into 3 distinct components: Trend, Seasonality & Residual(Noise); making it easier to quickly identify changing mean or variation in our time series.
 
-![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/d00f2ed5-5f03-44ef-9585-76a1cc24ab1d) 
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/9ab1315c-1caf-4c80-958d-a948d72e983e)
 
 The autocorrelation plot shows the correlation between the time series and its lagged values. The partial autocorrelation plot shows the partial correlation between the time series and its lagged values, after removing the effect of intermediate lags.
 
 If the autocorrelation plot shows a significant correlation at lag 1 and the partial autocorrelation plot shows a sharp drop at lag 1, it suggests that the time series is stationary. If the autocorrelation plot shows a slow decay and the partial autocorrelation plot shows significant correlations at multiple lags, it suggests that the time series is not stationary and may require differencing.
 
-![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/7427d4cd-71be-4206-8347-72a84843cd07) 
-![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/8286a5d8-3696-40b9-982f-036e8dcf0aa1)
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/5ca17ac0-2a20-4065-ae8e-2170c1912c04)
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/32981098-adb6-49b7-9d09-8d234976c829)
 
 Modelling, Prediction & Evaluation (Models: AR, ARIMA & SARIMA)
 
