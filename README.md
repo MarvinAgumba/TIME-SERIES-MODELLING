@@ -29,6 +29,7 @@ Time Series Decomposition: Decompose our time series into 3 distinct components:
 ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/d00f2ed5-5f03-44ef-9585-76a1cc24ab1d) 
 
 The autocorrelation plot shows the correlation between the time series and its lagged values. The partial autocorrelation plot shows the partial correlation between the time series and its lagged values, after removing the effect of intermediate lags.
+
 If the autocorrelation plot shows a significant correlation at lag 1 and the partial autocorrelation plot shows a sharp drop at lag 1, it suggests that the time series is stationary. If the autocorrelation plot shows a slow decay and the partial autocorrelation plot shows significant correlations at multiple lags, it suggests that the time series is not stationary and may require differencing.
 ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/7427d4cd-71be-4206-8347-72a84843cd07) 
 ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/8286a5d8-3696-40b9-982f-036e8dcf0aa1)
