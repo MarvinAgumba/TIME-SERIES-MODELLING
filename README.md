@@ -19,8 +19,6 @@ The following steps were taken into consideration:
 
 ## <p>SOME IMPORTANT VISUALIZATIONS<p>
 
-![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/d371e747-0a44-4979-b967-0ee6d143be65)  ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/6ab038e6-2e4f-4d88-a970-764338681a74)
-
-
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/d371e747-0a44-4979-b967-0ee6d143be65)  ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/6ab038e6-2e4f-4d88-a970-764338681a74)  ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/313dbaf5-abe1-4d3c-b839-bc07120026bd)  ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/d00f2ed5-5f03-44ef-9585-76a1cc24ab1d) ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/7427d4cd-71be-4206-8347-72a84843cd07)  ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/9875a5ab-f076-4e81-82ee-f9e5aac81224)  ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/624896ce-9ce5-4cc8-8bbe-6c294ffa5391)
 
 ## <p>MODEL RESULTS<p>
