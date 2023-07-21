@@ -40,7 +40,7 @@ Modelling, Prediction & Evaluation (Models: AR, ARIMA & SARIMA)
 
 ## <p>MODEL RESULTS<p>
 
-To avoid overfitting, our Best performing algorithm is the Random Forest Regression
+To avoid overfitting, our Best performing algorithm SARIMA
 
 | Model | MSE   | MAE  |
 |:------|:----- |:-----|
