@@ -13,15 +13,13 @@ The Government feels the ratio of tax revenue as a percentage of Gross Domestic 
 ## <p>PROJECT OVERVIEW<p>
 
 The following steps were taken into consideration:
-- **Data Understanding**: Processes involved: Loading dataset generated from the world bank website; Bivariate/Multivariate analysis;
-- **Data Preparation***: Data cleaning; Removing Duplicates; Dealing with missing values; Stationarity Check; Feature Importances
-- **Data Visualization**:
-- **Modelling**: Plot ACF/PACF plots, AR, ARIMA & SARIMA Models, Testing accuracy (MSE & MAE scores)
-- **Model Evaluation, Prediction & Forecating**
+- **Data Exploration & Understanding**: Understanding the Distribution of the Dataset; Create visualizations to better understand the distributions of variables in a dataset  (Visualizing Distributions- Histograms & KDE plots);
+- **Data Preparation***: Dealing with data types; Detecting & Dealing with Null Values; Checking For Multicollinearity; Normalizing Data; Feature Importance & Selection
+- **Modelling & Evaluation**: Detrend Time Series; Plot ACF & PACF; Decide on the AR, MA, and order of the models; Fit the model to get the correct parameters and use for prediction
 
 ## <p>SOME IMPORTANT VISUALIZATIONS<p>
 
-Feature Importance: Technique that calculates a score for all the features for our dataset — the scores represent the “importance” of each feature. A higher score means that the specific feature will have a larger effect on the model that is being used to predict our target variable. This shall assist us in better understanding our data and model and reducing the number of input features.
+Feature Importance: Technique that calculates a score for all the features for our dataset — the scores represent the “importance” of each feature. A higher score means that the specific feature will have a larger effect on the model that is being used to predict our target variable. This shall assist us in better understanding our data and model and reducing the number of input features. (Reduces Overfitting; Improves Accuracy; Reduces Training Time
 
 ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/3684d435-c416-45d9-84ac-07877e51b58b)
 
