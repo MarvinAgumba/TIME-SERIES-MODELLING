@@ -25,8 +25,9 @@ The following steps were taken into consideration:
 
 **Time Series Trend Analysis** & visualizing the impact of differencing on the data set (to remove trends & seasonality as we aim to make series stationary)
 
-![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/5254e6fd-192d-485c-b0e8-7d926d532ba9)
-![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/c725bbfc-ed3c-4fa5-9e38-6559d4ce212e)
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/10e55839-6871-4dbf-acb1-cfdf12b34f0d)
+
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/d8e494b4-8b04-4114-af73-c406589034f8)
 
 **Time Series Decomposition:** Decompose our time series into 3 distinct components: Trend, Seasonality & Residual(Noise); making it easier to quickly identify changing mean or variation in our time series.
 
