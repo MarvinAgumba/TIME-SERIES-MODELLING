@@ -60,10 +60,10 @@ To avoid overfitting, our Best performing algorithm SARIMA
 
 An MSE that is close to 0 indicates that the estimator is predicting observations of the parameter with perfect accuracy, which would be an ideal scenario but it is not typically possible.
 
-## <p>SORCES<p>
+## <p>SOURCES<p>
 
-https://www.worldbank.org/en/country/kenya/publication/kenya-economic-update-keu
-https://datatopics.worldbank.org/world-development-indicators
-http://www.parliament.go.ke/node/19912 https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e
-https://www.centralbank.go.ke/statistics/government-finance-statistics/ https://kra.go.ke/news-center/press-release/1956-kra-sustains-revenue-growth-despite-economic-shocks
+https://www.worldbank.org/en/country/kenya/publication/kenya-economic-update-keu\
+https://datatopics.worldbank.org/world-development-indicators\
+http://www.parliament.go.ke/node/19912 https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e\
+https://www.centralbank.go.ke/statistics/government-finance-statistics/ https://kra.go.ke/news-center/press-release/1956-kra-sustains-revenue-growth-despite-economic-shocks\
 I also drew inspiration from Moringa School Flatiron Canvas Content; various available Kaggle notebooks and Github GDP analysis notebooks
