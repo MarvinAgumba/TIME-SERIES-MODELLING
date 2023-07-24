@@ -44,10 +44,12 @@ If the autocorrelation plot shows a significant correlation at lag 1 and the par
 
 **Modeling**, Prediction & Evaluation (Models: AR, ARIMA & SARIMA)
 
-![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/e9ca719f-e67f-40d8-9b60-62401f6277af)  
-![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/624896ce-9ce5-4cc8-8bbe-6c294ffa5391)  ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/798a5e00-7bd0-4552-9588-811f22d39587)
-![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/a6a26934-dc7f-499a-afdb-aa9bb535145e)
-
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/261f68c8-954e-4651-acdf-e476e26d14bb)
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/64c4f25d-41c3-4c18-ae89-ab9bb7d2b50c)
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/25194413-2dab-4159-b2ff-fcea237c1f55)
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/0dc31c8d-3d1f-4d8e-99c3-8dd02af9f936)
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/46867283-a634-48b8-87ec-d3f82a895790)
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING/assets/122484885/0cf78e78-80b0-496e-9e27-26c4ef5bc766)
 
 ## <p>MODEL RESULTS<p>
 
