@@ -60,7 +60,7 @@ To avoid overfitting, our Best performing algorithm SARIMA
 
 An MSE that is close to 0 indicates that the estimator is predicting observations of the parameter with perfect accuracy, which would be an ideal scenario but it is not typically possible.
 
-##<p>SORCES<p>
+## <p>SORCES<p>
 
 https://www.worldbank.org/en/country/kenya/publication/kenya-economic-update-keu
 https://datatopics.worldbank.org/world-development-indicators
