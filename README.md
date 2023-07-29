@@ -53,13 +53,14 @@ If the autocorrelation plot shows a significant correlation at lag 1 and the par
 
 ## <p>MODEL RESULTS<p>
 
-To avoid overfitting, our Best performing algorithm SARIMA
+To avoid overfitting, our Best performing algorithm ARIMA
 
-| Model | MSE   | MAE  |
-|:------|:----- |:-----|
-| AR    | 0.013 | 0.087|
-| ARIMA | 0.004 | 0.040|
-| SARIMA| 0.0043|      |
+| Model         | MSE   | MAE  |
+|:--------------|:----- |:-----|
+| AR            | 1.3%  | 0.087|
+| ARIMA         | 0.40% | 0.040|
+| SARIMA: 1 Step| 0.07% |      |
+| SARIMA:Dynamic| 0.43% |      |
 
 An MSE that is close to 0 indicates that the estimator is predicting observations of the parameter with perfect accuracy, which would be an ideal scenario but it is not typically possible.
 
