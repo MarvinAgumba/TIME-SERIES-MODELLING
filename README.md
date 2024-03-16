@@ -64,6 +64,12 @@ To avoid overfitting, our Best performing algorithm ARIMA
 
 An MSE that is close to 0 indicates that the estimator is predicting observations of the parameter with perfect accuracy, which would be an ideal scenario but it is not typically possible.
 
+## <p>MODEL DEPLOYMENT& RESULTS<P>
+
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING-PROJECT/assets/122484885/561bfe8e-9bf3-4f15-b0ec-970fbb24ed92)
+
+The government should monitor the impact of the new taxes on the economy and make adjustments as needed. They should also be prepared to address any legal challenges to the bill.
+
 ## <p>SOURCES<p>
 
 https://www.worldbank.org/en/country/kenya/publication/kenya-economic-update-keu
