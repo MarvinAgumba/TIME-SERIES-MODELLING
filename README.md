@@ -10,7 +10,6 @@ The Government feels the ratio of tax revenue as a percentage of Gross Domestic 
 
 ![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING-PROJECT/assets/122484885/d6ecfb7d-18fc-4181-b934-adb35ac6f6ef)
 
-
 ## <p>BUSINESS UNDERSTANDING<p>
 
 **This project shall aim to analyze the Country's historical GDP trends and forecast future GDP growth. The analysis shall assist provide insights into economic growth patterns, identify emerging trends, and support evidence-based decision-making for various stakeholders.**
