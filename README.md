@@ -8,7 +8,7 @@ Kenyan Parliament recently, on the 26th of June 2023, passed to law the contenti
 
 The Government feels the ratio of tax revenue as a percentage of Gross Domestic Product (GDP) being well below acceptable levels to enable spur economic growth & reduce the cost of living in the long term. (***According to the World Bank, tax revenues above 15% of a country’s GDP are a key ingredient for economic growth and, ultimately, poverty reduction***)
 
-![Uploading image.png…]()
+![image](https://github.com/MarvinAgumba/TIME-SERIES-MODELLING-PROJECT/assets/122484885/d6ecfb7d-18fc-4181-b934-adb35ac6f6ef)
 
 
 ## <p>BUSINESS UNDERSTANDING<p>
